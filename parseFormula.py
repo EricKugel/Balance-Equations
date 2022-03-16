@@ -1,6 +1,3 @@
-# Balance an equation
-# Eric Kugel
-
 def getParenthesisBlockAt(index, block):
   endIndex = index + 1
   counter = 1
